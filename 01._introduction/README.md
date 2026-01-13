@@ -1,7 +1,28 @@
 # IT-Arkitechture, Agil development & Cloud
 
 
+## Learning Goals
+* Have an overview of this semester
+* Have an understading of the Exam and exam format
+* Can use `SSH` and `SCP` terminal commands to access an external computer.
+* Have an understanding of the code base in the "Awsome Recipe Cookbook" legacy project.
+* Can work with an OpenAPI specification and use it through Postman, and the Swagger Editor.
+* Have started the process of performing exam groups.
+* Have been presented to the tool Claude Code, and other similar tools, and have an understanding of why this is the recomended AI tool for this semensters teachings.
+* Have been presented to this semesters literature (The DevOps Handbook).
 
+
+
+## Before Class
+
+
+
+## Todays Teachings
+
+
+
+
+## After Class
 
 
 
