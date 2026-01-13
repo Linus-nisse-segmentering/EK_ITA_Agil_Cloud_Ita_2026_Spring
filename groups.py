@@ -12,7 +12,7 @@ GROUP_REPOS = [
 
   {
     "name": "TestThe Workflow",
-    "gitLinks": ["https://github.com/cookbookio/EK_ITA_Agil_Cloud_Ita_2026_Spri"],
+    "gitLinks": ["https://github.com/cookbookio/EK_ITA_Agil_Cloud_Ita_2026_Spring"],
     "backend": "",
     "frontend": "",
     "monitoring": "",
