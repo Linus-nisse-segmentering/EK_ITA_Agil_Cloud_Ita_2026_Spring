@@ -7,6 +7,6 @@ GROUP_REPOS = [
     "monitoring": "http://50.180.1.4:3000/",
     "stack": ["NodeJs", "PostgreSQL", "Nginx", "Terraform", "Grafana" ],
     "documentation": ["https://50.180.1.4/docs/", "https://github.com/cookbookio/EK_ITA_Agil_Cloud_Ita_2026_Spring/wiki/", "https://github.com/cookbookio/EK_ITA_Agil_Cloud_Ita_2026_Spring/blob/master/README.md"],
-    "names": ["Claus Bove", "John Doe", "Alice Ant"]
+    "members": ["Claus Bove", "John Doe", "Alice Ant"]
   }
 ]
