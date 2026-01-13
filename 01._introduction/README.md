@@ -23,7 +23,7 @@
 
 
 ## After Class
-
+* Group creation, and create a pull request with group info in  groups.py
 
 
 
