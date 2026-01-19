@@ -15,7 +15,8 @@
 
 ## Before Class
 
-
+* [DevOps Handbook](https://ek.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1462766)
+    * Skim this - detailed reading will come later this semester.
 
 ## Todays Teachings
 
