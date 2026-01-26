@@ -1,4 +1,4 @@
-# IT-Arkitechture, Agil development & Cloud
+# IT-Arcitechture, Agil development & Cloud
 
 
 ## Learning Goals
