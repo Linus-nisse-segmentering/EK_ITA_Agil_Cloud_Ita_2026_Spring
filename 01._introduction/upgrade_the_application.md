@@ -1,13 +1,20 @@
 # Upgrade the application
 
-Upgrade the server code from Python 2.0 to Python 3.x.x. Get a feel for the server. 
+Upgrade the server code from Python 2.7 to Python 3.x.x. Get a feel for the server. 
 
 **Type**: Group work
 
-
 **Motivation**: The goal is for everyone to study the code base and get familiar with the functionalities.
 
+---
 
+Use you newly installed coding assistant to upgrade the code from Python 2.7 to Python 3.x.x.    
+You should be aware of what is updated, what parts of the code will change.    
+You should also be aware about **not** letting the assistant solve the issues in the code you earlier detected. It is only an upgrade from 2 to 3 that is needed for now. 
+
+
+
+<!--
 # The application
 
 In case you missed it, the application can be found here:
@@ -34,7 +41,7 @@ You can run it on the server file like this:
 ```bash
 $ 2to3 app.py
 ```
-
+-->
 <!-- #### Check the result
 
 In cause you use 2to3 to auto-fix it then save it to a different file and compare these two before you push the changes. 
@@ -52,7 +59,7 @@ $ FC app.py app.py3
 ``` -->
 
 
-
+<!--
 ## Fix the shell script: `run_forever.sh`
 
 In the `src` directory you can find `run_forever.sh` script. Use `shellcheck` to fix potential problems. 
@@ -78,3 +85,5 @@ Assuming that you are in the `src` directory:
 ```bash
 $ shellcheck run_forever.sh
 ```
+
+-->

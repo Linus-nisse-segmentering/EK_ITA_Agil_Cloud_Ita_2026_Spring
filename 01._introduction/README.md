@@ -23,6 +23,9 @@
 
 ![](assets/devops_technologies.png)
 
+
+[The legacy project](02._the_legacy_project.md)
+
 [Awsome Recipe Cookbook](https://github.com/cookbookio/awsome_recipe_cookbook)
 
 [AI CLI assistance](ai_cli_assistant.md)
@@ -30,11 +33,17 @@
 ## After Class
 * You should first start by finding a group. After this you can start working on the exercises beneath. 
 
+* Start by finding the most critical problems in the legacy code (you should not fix them, just find them)
+    * [Problems with the codebase](problems_with_the_codebase.md)
+
+* Upgrade the application to Python3
+    * [Upgrade the application](upgrade_the_application.md)
+
 * Analyse your code
     * [Create a dependency graph (Digraph) for the legacy system](create_a_dependency_graph.md)
 
-* Group creation, and create a pull request with group info in groups.py
-    * [create_a_pr_to_groups_py.md](create_a_pr_to_groups_py.md)
+* Create a pull request with group info in groups.py
+    * [create a pr to groups_py.md](create_a_pr_to_groups_py.md)
 
 * Create a release of your project
     * [Create a git release](git_release.md)

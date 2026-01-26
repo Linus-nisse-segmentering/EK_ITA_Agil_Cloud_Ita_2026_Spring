@@ -4,9 +4,7 @@ Idenfity all the problematic parts of the legacy code.
 
 **Type**: Group work
 
-**Part of mandatory I**
-
-**Motivation**: This task is an excellent opportunity for everyone to study the code base and become familiar with the functionality, components and Flask which is likely new for you.
+**Motivation**: This task is an excellent opportunity for everyone to study the code base and become familiar with the functionality, components and Flask.
 
 ---
 
@@ -16,3 +14,4 @@ Create a document that lists all the problems in the provided codebase. The list
 
 While the problems of the legacy code doesn’t relate to your final product, it is still a topic of interest during the exam to see how you mitigated these problems. 
 
+**Do not solve the problems, only find them!**
