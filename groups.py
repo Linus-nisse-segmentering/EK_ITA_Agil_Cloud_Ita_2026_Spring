@@ -29,4 +29,15 @@ GROUP_REPOS = [
             "documentation": [],
             "members": ["Lukas", "Nixhajete", "Sahra"],
         },
+        
+                {
+            "name": "OSteprissse?",
+            "gitLinks": ["https://github.com/Linus-nisse-segmentering/linus-kogebog"],
+            "backend": "",
+            "frontend": "",
+            "monitoring": "",
+            "stack": [],
+            "documentation": [],
+            "members": ["Linea", "Jonas", "Føen (Faprao)", "Nikoleta"],
+        }
 ]
