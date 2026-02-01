@@ -10,7 +10,6 @@ I dag skal i have installeret Linux så i kan lege med operativsystemet.
 * Forstå hvad en package manager er og gør.
 * Kunne bruge en terminal baseret texteditor (nano)
 * Kunne eksevere applikationer (python) på din linux computer.
-. 
 
 ## Before Class
 
@@ -44,3 +43,6 @@ Lav øvelserne: 
     * Men du kan godt køre din applikation lokalt på denne installation, så bare hop ud i det.
  
 Hvis du skulle blive færdig før timen er overstået skal du blive ved med at lege med systemet indtil du rammer en time!
+
+
+TEST
