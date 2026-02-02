@@ -1,5 +1,5 @@
 # Linux OS
-I dag skal i have installeret Linux så i kan lege med operativsystemet.
+I dag skal i have installeret Linux og i skal arbejde med operativsystemet gennem dets terminal.
 
 ## Learning Goals
 * Installere Linux gennem Docker på din computer.
