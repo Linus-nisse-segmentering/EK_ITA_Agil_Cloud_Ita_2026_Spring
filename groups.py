@@ -47,7 +47,7 @@ GROUP_REPOS = [
             "frontend": "React",
             "monitoring": "",
             "stack": ["Node.js","React"],
-            "documentation": ["https://github.com/Balladebaderne/legacy-project/blob/master/README.md"],
+            "documentation": ["https://github.com/Balladebaderne/cookbook/blob/master/README.md"],
             "members": ["Magnus Giemsa", "Laurits Munk", "Elias Garcia", "Andreas Brandenborg", "Jacob Bisgård"],
         }
 ]
