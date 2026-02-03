@@ -36,6 +36,7 @@ Se og følg tutorials i de tre videoer:
 _(DevOps Handbook p. 54-61)_
 
 * **Make your work visible**
+    * Git, GitHub and good commit messages
     * Kanban
     * Project
     * Release
@@ -43,8 +44,9 @@ _(DevOps Handbook p. 54-61)_
         * LECENSE
     * other? 
 * **Limit Work in Process (WIP)**
-    * 
+    * Small tasks, and end them before going on to new one.
 * Reduce Batch size
+
 **Show your work!**
 
 ## Status
