@@ -27,3 +27,14 @@ No preperation for today
 ## After Class
 
 * Make sure you have a [Package Managers](package_managers.md) installed on either Mac or Windows.
+
+- [x] Make sure to have a group organization on github   
+- [x] Make sure to have a cookbook repository, with your own framework code   
+- [x] Make sure to have a the groups.py file up to date with repo url, group memebers and stack information.  
+- [x] Make sure to have **OpenApi REST api documentation** added to your framework code    
+- [x] Make sure that when you think your code is as it should be (for now), to merged it into the master branch.
+- [x] Create **tags** and  **releases** 
+- [x] Add a dockerfile and a docker-compose file to your repository (it helps everybody to run you application)
+- [x] Write a simple description in the repos readmefile on how to run your application
+- [x] Make sure to Have set up a project and a Kanban board
+- [x] Check you **issues** tab for potetially issues added by me, or others
